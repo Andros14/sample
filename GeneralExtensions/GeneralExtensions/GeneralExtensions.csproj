@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>NetcoreGeneralExtensions</PackageId>
+    <Version>1.0.0.1</Version>
+    <Authors>Andros</Authors>
+    <Company>Andros</Company>
+    <PackageTags>core;extensions</PackageTags>
   </PropertyGroup>
 
 </Project>
